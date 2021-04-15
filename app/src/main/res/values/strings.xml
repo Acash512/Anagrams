@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anagrams</string>
+    <string name="press_play_to_get_started">Press \'play\' to get started</string>
+    <string name="start_message">Find as many words as possible that can be formed by adding one letter to <big>%s</big> (but that do not contain the substring %s).</string>
+</resources>
